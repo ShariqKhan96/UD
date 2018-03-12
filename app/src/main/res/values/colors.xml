@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#004d40</color>
+    <color name="colorPrimaryDark">#00251a</color>
+    <color name="colorAccent">#39796b</color>
+    <color name="signUp">#39796b</color>
+    <color name="signIn">#A9d440</color>
+    <color name="overlayBackground">#7f333639</color>
+    <color name="grey">#fd454545</color>
+    <color name="baseColor">#212121</color>
+    <color name="basePressColor">#FAFAFA</color>
+    <color name="ballReleaseColor">#9E9E9E</color>
+
+</resources>

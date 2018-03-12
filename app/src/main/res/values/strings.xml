@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UberDriver</string>
+    <string name="title_activity_welcome">Map</string>
+</resources>
